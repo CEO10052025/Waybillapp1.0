@@ -1,0 +1,5 @@
+pandas
+openpyxl
+tkinter
+xlsxwriter
+python-docx
